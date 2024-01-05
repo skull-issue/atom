@@ -7,8 +7,9 @@ dead simple, handle the reflection yourself
 
   why handle it yourself? so you can format things in whatever way makes sense for your datastructs
   
-  explain myself? no. (i've used this format before and it's cool but i'll post some Use Case Exmaples later. Or never.)
+  explain myself? no. I added some simple use case examples tho, hopefully this helps.
   
+
 use tabs to create a tokenized heirachy - indent level indicates parent/child relationship
 
 // creates a comment - anything after the slashes on a line is ignored
