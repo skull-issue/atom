@@ -1,0 +1,31 @@
+﻿			◘if you see tabs on the first line, no you didn't◘
+value // comment
+◘literal // doesnt comment◘
+
+one two three
+◘one one one◘ two three
+indent
+	one
+	two
+		2.1
+		2.2
+			2.2.1
+		2.3
+		2.4
+
+			
+	three
+		three.one
+			three.one.one
+	four
+◘multiline first◘ ◘second is a string literal
+over
+multiple
+lines◘ ◘third ends on a literal◘
+dudley
+foolproof
+	ok
+					what the hell
+			you idiot
+				moran
+dumas

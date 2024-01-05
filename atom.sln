@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atom", "atom.csproj", "{E5E4DB8A-786B-4721-AC00-F66BC04E9BA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5E4DB8A-786B-4721-AC00-F66BC04E9BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E4DB8A-786B-4721-AC00-F66BC04E9BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E4DB8A-786B-4721-AC00-F66BC04E9BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E4DB8A-786B-4721-AC00-F66BC04E9BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58FC4434-1C9C-4D97-B499-BDE1002ADF2D}
+	EndGlobalSection
+EndGlobal
