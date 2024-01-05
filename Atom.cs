@@ -202,12 +202,15 @@ namespace sr
 					var sb = new StringBuilder(64);
 					var values = new List<string>();
 					bool literal = false;
+					bool quote = false;
 
 					foreach( var c in line )
 					{
 						if( c == LTRL )
 							literal = !literal;
-						else if( !literal && c == ' ' )
+						else if( !literal && c == '"' )
+							quote = !quote;
+						else if( !literal && !quote && c == ' ' )
 							BuildValue();
 						else
 							sb.Append( c );
